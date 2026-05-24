@@ -305,7 +305,7 @@ Extracted actionable business and industry insights.
 # 🙌 Credits
 
 ### Author
-Your Name
+Alpit Gadhave
 
 ### Learning Resources
 - Cisco Networking Academy
@@ -313,12 +313,6 @@ Your Name
 - Semiconductor Industry Association
 - Statista
 - Public Research Reports
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
